@@ -8,7 +8,7 @@
 [![Jogo](https://img.shields.io/badge/jogo-2.0.16-blue?style=flat-square)](#)
 [![APK](https://img.shields.io/badge/APK-7.8_MB-2ea44f?style=flat-square)](#-download)
 [![OBB](https://img.shields.io/badge/OBB-1.45_GB-orange?style=flat-square)](#-download)
-[![Downloads](https://img.shields.io/github/downloads/VSFLima/GOF2-HD-Mod/total?style=flat-square&label=downloads)](https://github.com/VSFLima/GOF2-HD-Mod/releases)
+[![Downloads](https://img.shields.io/badge/downloads-758-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/VSFLima/GOF2-HD-Mod/releases)
 [![Release](https://img.shields.io/github/v/release/VSFLima/GOF2-HD-Mod?style=flat-square&label=release)](https://github.com/VSFLima/GOF2-HD-Mod/releases)
 
 **God Mode • Todas as naves • Todos os itens • Armas fortes • DLCs liberados**
