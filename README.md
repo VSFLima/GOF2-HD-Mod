@@ -126,4 +126,4 @@
 
 - **Mod**: VSFLima
 - **Screenshots**: [KiritoJPK](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android)
-- **Comunidade GOF2**: 4PDA / Phantom_hat
+- **Comunidade GOF2**: 4PDA / phantom
